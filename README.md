@@ -126,6 +126,7 @@ Adding Remote Repositories
 git remote add upstream https://github.com/Its-Aman-Yadav/Community-Site.git
 ```
 Pulling from Your Remote
+
 ```
 $ git pull upstream main
 ```
